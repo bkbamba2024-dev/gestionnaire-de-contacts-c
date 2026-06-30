@@ -53,8 +53,7 @@ Gestionnaire_Contacts/
 │── gestionnaire_contacts.c
 │── README.md
 │── LICENSE
-```
-
+└── Rapport_Projet 3.pdf
 ---
 
 ## Exemple d'utilisation
