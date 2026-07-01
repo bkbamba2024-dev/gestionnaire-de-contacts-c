@@ -1,4 +1,4 @@
-#  Projet_3 Gestionnaire de Contacts en C
+#  Gestionnaire de Contacts en C
 
 ## Description
 
